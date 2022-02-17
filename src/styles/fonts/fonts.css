@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-BlackItalic"), url("./Axiforma-BlackItalic.woff") format("woff"), url("./Axiforma-BlackItalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Black"), url("./Axiforma-Black.woff") format("woff"), url("./Axiforma-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma Book";
+    src: local("Axiforma-Book"), url("./Axiforma-Book.woff") format("woff"), url("./Axiforma-Book.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Bold"), url("./Axiforma-Bold.woff") format("woff"), url("./Axiforma-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma Book";
+    src: local("Axiforma-BookItalic"), url("./Axiforma-BookItalic.woff") format("woff"), url("./Axiforma-BookItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-BoldItalic"), url("./Axiforma-BoldItalic.woff") format("woff"), url("./Axiforma-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-ExtraBold"), url("./Axiforma-ExtraBold.woff") format("woff"), url("./Axiforma-ExtraBold.woff") format("woff");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-ExtraBoldItalic"), url("./Axiforma-ExtraBoldItalic.woff") format("woff"), url("./Axiforma-ExtraBoldItalic.woff") format("woff");
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Heavy"), url("./Axiforma-Heavy.woff") format("woff"), url("./Axiforma-Heavy.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Light"), url("./Axiforma-Light.woff") format("woff"), url("./Axiforma-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Italic"), url("./Axiforma-Italic.woff") format("woff"), url("./Axiforma-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-HeavyItalic"), url("./Axiforma-HeavyItalic.woff") format("woff"), url("./Axiforma-HeavyItalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-MediumItalic"), url("./Axiforma-MediumItalic.woff") format("woff"), url("./Axiforma-MediumItalic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-LightItalic"), url("./Axiforma-LightItalic.woff") format("woff"), url("./Axiforma-LightItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Medium"), url("./Axiforma-Medium.woff") format("woff"), url("./Axiforma-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-SemiBold"), url("./Axiforma-SemiBold.woff") format("woff"), url("./Axiforma-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Regular"), url("./Axiforma-Regular.woff") format("woff"), url("./Axiforma-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-SemiBoldItalic"), url("./Axiforma-SemiBoldItalic.woff") format("woff"), url("./Axiforma-SemiBoldItalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-Thin"), url("./Axiforma-Thin.woff") format("woff"), url("./Axiforma-Thin.woff") format("woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Axiforma";
+    src: local("Axiforma-ThinItalic"), url("./Axiforma-ThinItalic.woff") format("woff"), url("./Axiforma-ThinItalic.woff") format("woff");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
